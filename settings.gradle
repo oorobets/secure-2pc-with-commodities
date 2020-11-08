@@ -1,3 +1,4 @@
 rootProject.name = 'secure-2pc-with-commodities'
 include 'common'
+include 'protocol'
 
